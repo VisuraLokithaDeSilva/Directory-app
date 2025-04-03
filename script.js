@@ -1845,10 +1845,10 @@ const data = [
         addressNonSitting: "Dampitiya ,\nEthanawaththa",
         fax: "",
         email: "sujeewad@parliament.Ik",
-        image: ""
+        image: "https://www.parliament.lk/uploads/images/members/profile_images/thumbs/3550.jpg"
       },
       {
-        name: "HON . Susantha Dodawatta , Attorney at Law",
+        name: "HON. Susantha Dodawatta, Attorney at Law",
         title: "",
         mobile: "0772987288",
         telephoneSitting: "0772987288",
@@ -1857,19 +1857,7 @@ const data = [
         addressNonSitting: "120/124 , CT Garden ,\nGangarama Road ,\nPiliyandala .",
         fax: "",
         email: "susanthad@parliament.lk",
-        image: ""
-      },
-      {
-        name: "HON . Mohamed Sali Naleem",
-        title: "",
-        mobile: "0773535358",
-        telephoneSitting: "",
-        telephoneNonSitting: "0652241533",
-        addressSitting: "79 ,\nMain Street ,\nEravur",
-        addressNonSitting: "79 ,\nMain Street ,\nEravur",
-        fax: "",
-        email: "",
-        image: ""
+        image: "https://www.parliament.lk/uploads/images/members/profile_images/thumbs/3468.jpg"
       },
       {
         name: "HON . Susantha Kumara Nawarathna",
@@ -1881,10 +1869,10 @@ const data = [
         addressNonSitting: "1191/85 . Second Stage . Anuradapura .",
         fax: "",
         email: "",
-        image: ""
+        image: "https://www.parliament.lk/uploads/images/members/profile_images/thumbs/3569.jpg"
       },
       {
-        name: "HON . ( Prof. ) Sena Nanayakkara",
+        name: "HON. (Prof.) Sena Nanayakkara",
         title: "",
         mobile: "0718101539",
         telephoneSitting: "0252266789",
@@ -1893,10 +1881,10 @@ const data = [
         addressNonSitting: "\"Sajana\" , 5th Lane . Kurundankulama , Anuradhapura .",
         fax: "",
         email: "senan@parliament.lk",
-        image: ""
+        image: "https://www.parliament.lk/uploads/images/members/profile_images/thumbs/3567.jpg"
       },
       {
-        name: "HON . Nandana Pathmakumara",
+        name: "HON. Nandana Pathmakumara",
         title: "",
         mobile: "0715566242",
         telephoneSitting: "0382285274",
@@ -1905,22 +1893,22 @@ const data = [
         addressNonSitting: "No 18 Chamlipura Moronthuduwa",
         fax: "",
         email: "nandanapk@parliament.Ik",
-        image: ""
+        image: "https://www.parliament.lk/uploads/images/members/profile_images/thumbs/3494.jpg"
       },
       {
-        name: "HON , Aruna Panagoda",
+        name: "HON. Aruna Panagoda",
         title: "",
         mobile: "0718135160",
         telephoneSitting: "0718135160",
         telephoneNonSitting: "0718135160",
-        addressSitting: "130 / C Palagama Polgasowita",
-        addressNonSitting: "130 / C Palagama Polgasowita",
+        addressSitting: "130/C, Palagama, Polgasowita",
+        addressNonSitting: "130/C, Palagama, Polgasowita",
         fax: "",
-        email: "arunap @ parliament . Ik",
-        image: ""
+        email: "arunap@parliament.Ik",
+        image: "https://www.parliament.lk/uploads/images/members/profile_images/thumbs/3462.jpg"
       },
       {
-        name: "HON . Nimal Palihena",
+        name: "HON. Nimal Palihena",
         title: "",
         mobile: "0716838739",
         telephoneSitting: "0252226989",
@@ -1929,10 +1917,10 @@ const data = [
         addressNonSitting: "581/43 Thammannakulama Anuradhapura",
         fax: "",
         email: "",
-        image: ""
+        image: "https://www.parliament.lk/uploads/images/members/profile_images/thumbs/3571.jpg"
       },
       {
-        name: "HON . Nishantha Perera",
+        name: "HON. Nishantha Perera",
         title: "",
         mobile: "0701073538",
         telephoneSitting: "0912233389",
@@ -1941,10 +1929,10 @@ const data = [
         addressNonSitting: "464/20 Pannipitiya Road , Pelawatte . Battaramulla .",
         fax: "",
         email: "",
-        image: ""
+        image: "https://www.parliament.lk/uploads/images/members/profile_images/thumbs/3519.jpg"
       },
       {
-        name: "HON . Chithral Fernando , Attorney at Law",
+        name: "HON. Chithral Fernando, Attorney at Law",
         title: "",
         mobile: "0777566847",
         telephoneSitting: "0312245730",
@@ -1953,10 +1941,10 @@ const data = [
         addressNonSitting: "No. 632 , Convent Road , Wennaopuwa .",
         fax: "",
         email: "chithralfernando@parliament.Ik",
-        image: ""
+        image: "https://www.parliament.lk/uploads/images/members/profile_images/thumbs/3566.jpg"
       },
       {
-        name: "HON . Stepni Fernando",
+        name: "HON. Stepni Fernando",
         title: "",
         mobile: "9471435143",
         telephoneSitting: "0112232564",
@@ -1965,10 +1953,10 @@ const data = [
         addressNonSitting: "No : 170/3 Wevala Ja - Ela 11350",
         fax: "",
         email: "stepnif@parliament.Ik",
-        image: ""
+        image: "https://www.parliament.lk/uploads/images/members/profile_images/thumbs/3485.jpg"
       },
       {
-        name: "HON . Kanthasamy Prabu",
+        name: "HON. Kanthasamy Prabu",
         title: "",
         mobile: "0771266464",
         telephoneSitting: "0740081358",
@@ -1977,22 +1965,22 @@ const data = [
         addressNonSitting: "No 54/6 , 7th cross street Iruthayapuram West Batticaloa",
         fax: "",
         email: "prabuk@parliament.Ik",
-        image: ""
+        image: "https://www.parliament.lk/uploads/images/members/profile_images/thumbs/3540.jpg"
       },
       {
-        name: "HON . Amila Prasad",
+        name: "HON. Amila Prasad",
         title: "",
         mobile: "0770727199",
         telephoneSitting: "0332234444",
         telephoneNonSitting: "0332287886",
-        addressSitting: "105 / G , Balabowa , Dewalapola .",
-        addressNonSitting: "105 / G , Balabowa , Dewalapola .",
+        addressSitting: "105/G , Balabowa , Dewalapola .",
+        addressNonSitting: "105/G , Balabowa , Dewalapola .",
         fax: "",
         email: "amilap@parliament.Ik",
-        image: ""
+        image: "https://www.parliament.lk/uploads/images/members/profile_images/thumbs/3487.jpg"
       },
       {
-        name: "HON . Lal Premanath",
+        name: "HON. Lal Premanath",
         title: "",
         mobile: "0779308536",
         telephoneSitting: "0779308536",
@@ -2001,10 +1989,10 @@ const data = [
         addressNonSitting: "1/120 , \" Vasana \" , Deniyaya Road , Waralla , Matara .",
         fax: "",
         email: "lalpre@parliament.lk",
-        image: ""
+        image: "https://www.parliament.lk/uploads/images/members/profile_images/thumbs/3526.jpg"
       },
       {
-        name: "HON . Nanda Bandara",
+        name: "HON. Nanda Bandara",
         title: "",
         mobile: "0762253458",
         telephoneSitting: "",
@@ -2013,7 +2001,7 @@ const data = [
         addressNonSitting: "244 , Kalwana , Annayaka .",
         fax: "",
         email: "nandab@parliament.Ik",
-        image: ""
+        image: "https://www.parliament.lk/uploads/images/members/profile_images/thumbs/3603.jpg"
       },
       {
         name: "HON . Padmasiri Bandara",
@@ -2025,7 +2013,7 @@ const data = [
         addressNonSitting: "4/7 , Yatiyal Pathana South Pinpara Kawudulla",
         fax: "",
         email: "bandaranrp @ parliament . Ik",
-        image: ""
+        image: "https://www.parliament.lk/uploads/images/members/profile_images/thumbs/3577.jpg"
       },
       {
         name: "HON . Ravindra Bandara",
@@ -2037,10 +2025,10 @@ const data = [
         addressNonSitting: "Highland Nursery Badulla Road Bandarawela",
         fax: "",
         email: "ravindrab@parliament.Ik",
-        image: ""
+        image: "https://www.parliament.lk/uploads/images/members/profile_images/thumbs/3580.jpg"
       },
       {
-        name: "HON . Sudath Balagalla",
+        name: "HON. Sudath Balagalla",
         title: "",
         mobile: "0774005006",
         telephoneSitting: "0774005006",
@@ -2049,10 +2037,10 @@ const data = [
         addressNonSitting: "Padiyathalawa Road . Mahiyanganaya .",
         fax: "",
         email: "",
-        image: ""
+        image: "https://www.parliament.lk/uploads/images/members/profile_images/thumbs/3581.jpg"
       },
       {
-        name: "HON . ( Dr. ) S. Sri Bavanandarajah",
+        name: "HON. (Dr.) S. Sri Bavanandarajah",
         title: "",
         mobile: "0777570161",
         telephoneSitting: "0112363955",
@@ -2060,11 +2048,11 @@ const data = [
         addressSitting: "12.B / 2 / 1 , 46th Lanc , Wellawatta , Colombo 06 .",
         addressNonSitting: "Tellippalai , Pandaterappu Road , Ampanai , Tellippalai .",
         fax: "",
-        email: "sribavanandarajahs @ parliament . Ik",
-        image: ""
+        email: "sribavanandarajahs@parliament.Ik",
+        image: "https://www.parliament.lk/uploads/images/members/profile_images/thumbs/3533.jpg"
       },
       {
-        name: "HON . E.M. Basnayaka",
+        name: "HON. E.M. Basnayaka",
         title: "",
         mobile: "0717641127",
         telephoneSitting: "0717641127",
@@ -2073,10 +2061,10 @@ const data = [
         addressNonSitting: "No 516/2 , Mahayaya , Ulpathagama .",
         fax: "",
         email: "basnayaka@parliament.Ik",
-        image: ""
+        image: "https://www.parliament.lk/uploads/images/members/profile_images/thumbs/3500.jpg"
       },
       {
-        name: "HON . Wijesiri Basnayake .",
+        name: "HON. Wijesiri Basnayake .",
         title: "",
         mobile: "0777758615",
         telephoneSitting: "0777758615",
@@ -2085,10 +2073,10 @@ const data = [
         addressNonSitting: "\" Pahala Alhena \" , Kandegedara , Maharachchimulla",
         fax: "",
         email: "wijeb@parliament.Ik",
-        image: ""
+        image: "https://www.parliament.lk/uploads/images/members/profile_images/thumbs/3551.jpg"
       },
       {
-        name: "HON . Sunil Biyanwila",
+        name: "HON. Sunil Biyanwila",
         title: "",
         mobile: "0779061916",
         telephoneSitting: "0779061916",
@@ -2097,10 +2085,10 @@ const data = [
         addressNonSitting: "Ehelepola , Pallepola",
         fax: "",
         email: "biyanwilas@parliament.Ik",
-        image: ""
+        image: "https://www.parliament.lk/uploads/images/members/profile_images/thumbs/3506.jpg"
       },
       {
-        name: "HON . ( Dr. ) Sandaruwan Madarasinghe",
+        name: "HON . (Dr.) Sandaruwan Madarasinghe",
         title: "",
         mobile: "0769194703",
         telephoneSitting: "0769194703",
@@ -2109,10 +2097,10 @@ const data = [
         addressNonSitting: "Pelawatta , Pallekanda , Walasmulla .",
         fax: "",
         email: "",
-        image: ""
+        image: "https://www.parliament.lk/uploads/images/members/profile_images/thumbs/3529.jpg"
       },
       {
-        name: "HON . Lieutenant Commander ( Rtd . ) Prageeth Madhuranga",
+        name: "HON . Lieutenant Commander (Rtd.) Prageeth Madhuranga",
         title: "",
         mobile: "0718199392",
         telephoneSitting: "0718199392",
@@ -2121,7 +2109,7 @@ const data = [
         addressNonSitting: "44/18 , Kochchiwatta , Weliveriya .",
         fax: "",
         email: "prageethm@parliament.lk",
-        image: ""
+        image: "https://www.parliament.lk/uploads/images/members/profile_images/thumbs/3480.jpg"
       },
       {
         name: "HON. Jagath Manuwarna",
