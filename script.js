@@ -1101,7 +1101,7 @@ const data = [
         addressNonSitting: " Kambiadiya, Kaikawala. Mathale.", 
         fax: "0662255400", 
         email: "rohini_wk@parliament.lk", 
-        image: "https://www.parliament.lk/uploads/images/members/profile_images/thumbs/3548.jpg" 
+        image: "https://www.parliament.lk/uploads/images/members/profile_images/thumbs/3233.jpg" 
     },
     { 
         name: "HON. Chaminda Wijesiri", 
@@ -1257,7 +1257,7 @@ const data = [
         addressNonSitting: " No.60, Abayapura, Trincomalee", 
         fax: "", 
         email: "roshanak@parliament.lk", 
-        image: "" 
+        image: "https://www.parliament.lk/uploads/images/members/profile_images/thumbs/3548.jpg" 
     },
     { 
         name: " HON. Aboobucker Athambawa", 
