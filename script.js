@@ -315,7 +315,7 @@ const data = [
         name: "HON. Chathuranga Abeysinghe", 
         title: "Deputy Minister of Industry and Entrepreneurship Development", 
         mobile: "0762255844", 
-        telephoneSitting: "0112692664", 
+        telephoneSitting: "0112785612", 
         telephoneNonSitting: "0112692664", 
         addressSitting: "464/20, Pannipitiya Road, Pelawatte, Battaramulla.", 
         addressNonSitting: "464/20, Pannipitiya Road, Pelawatte, Battaramulla.", 
@@ -458,7 +458,7 @@ const data = [
     { 
         name: " HON. Sundaralingam Pradeep", 
         title: "Deputy Minister of Plantation and Community Infrastructure", 
-        mobile: "0773080729", 
+        mobile: "0713280729", 
         telephoneSitting: "0773080729", 
         telephoneNonSitting: "0719198140", 
         addressSitting: "3rd lane, Walawwatta, Kahawatta", 
@@ -494,7 +494,7 @@ const data = [
     { 
         name: "HON. (Dr.) Susil Ranasinghe", 
         title: "Deputy Minister of Land and Irrigation", 
-        mobile: "0743205051", 
+        mobile: "0714325051", 
         telephoneSitting: "0112785612", 
         telephoneNonSitting: "0743205051", 
         addressSitting: "464/20, Pannipitiya Road, Pelawatte, Battaramulla.", 
@@ -1095,13 +1095,13 @@ const data = [
         name: "HON. (Mrs.) Rohini Kumari Wijerathna", 
         title: "", 
         mobile: "0773415003", 
-        telephoneSitting: "0662255400", 
+        telephoneSitting: "0662055440", 
         telephoneNonSitting: "0662255400", 
         addressSitting: " Kambiadiya, Kaikawala. Mathale.", 
         addressNonSitting: " Kambiadiya, Kaikawala. Mathale.", 
         fax: "0662255400", 
         email: "rohini_wk@parliament.lk", 
-        image: "https://www.parliament.lk/uploads/images/members/profile_images/thumbs/3233.jpg" 
+        image: "https://www.parliament.lk/uploads/images/members/profile_images/thumbs/3548.jpg" 
     },
     { 
         name: "HON. Chaminda Wijesiri", 
