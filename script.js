@@ -2676,6 +2676,18 @@ const data = [
         image: "https://www.parliament.lk/uploads/images/members/profile_images/thumbs/3624.jpg"
       },
       {
+        name: "HON. XXXXXXXX XXXXXXXX",
+        title: "Minister Of XXXXXXXX",
+        mobile: "XXXXXXXXXX",
+        telephoneSitting: "XXXXXXXXXX",
+        telephoneNonSitting: "XXXXXXXXXX",
+        addressSitting: "XXXXXXXXXX, XXXXXXXXXX, XXXXXXXXXX",
+        addressNonSitting: "XXXXXXXXXX, XXXXXXXXXX, XXXXXXXXXX",
+        fax: "XXXXXXXXXX",
+        email: "XXXXXXXXX@gmail.com",
+        image: "https://static.wixstatic.com/media/e5040e_77e52dc034ff4f659f62dbb0423866e9~mv2.png/v1/fill/w_1692,h_1974,al_c/Placeholder.png"
+      },
+      {
         name: "HON. M. Nizam Kariapper, PC",
         title: "",
         mobile: "0777308363",
