@@ -1469,7 +1469,7 @@ const data = [
         mobile: "0777748593", 
         telephoneSitting: "0777748593", 
         telephoneNonSitting: "0777748593", 
-        addressSitting: "97/4 kandahenawatte Off Samagi Mawatha, Hokandara", 
+        addressSitting: "397/4 kandahenawatte Off Samagi Mawatha, Hokandara", 
         addressNonSitting: "397/4 kandahenawatte Off Samagi Mawatha, Hokandara", 
         fax: "", 
         email: "chamindraneek@parliament.lk", 
