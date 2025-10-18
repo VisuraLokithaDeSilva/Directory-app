@@ -204,7 +204,7 @@ const data = [
         image: "https://www.parliament.lk/uploads/images/members/profile_images/thumbs/3611.jpg" 
     },
     { 
-        name: "HON. (Prof.) Anil Jayantha", 
+        name: "HON. (Dr.) Anil Jayantha", 
         title: "Deputy Minister of Finance and Planning", 
         mobile: "0714463944", 
         telephoneSitting: "0714463944", 
