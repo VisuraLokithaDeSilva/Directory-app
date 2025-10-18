@@ -205,7 +205,7 @@ const data = [
     },
     { 
         name: "HON. (Prof.) Anil Jayantha", 
-        title: "Deputy Minister of finance and planning", 
+        title: "Deputy Minister of Finance and Planning", 
         mobile: "0714463944", 
         telephoneSitting: "0714463944", 
         telephoneNonSitting: "0714463944", 
@@ -2860,3 +2860,4 @@ function clearSearch() {
     // Focus on the search box
     document.getElementById('searchBox').focus();
 }
+
