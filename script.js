@@ -49,7 +49,7 @@ const data = [
     },
     { 
         name: "HON. Bimal Rathnayake", 
-        title: "Minister of Transport, Highways, Ports and Civil Aviation and Leader of the House of Parliament", 
+        title: "Minister of Transport, Highways and Urban Development", 
         mobile: "0773111226", 
         telephoneSitting: "0773111226", 
         telephoneNonSitting: "0112785612", 
@@ -169,7 +169,7 @@ const data = [
     },
     { 
         name: "HON. Anura Karunathilaka", 
-        title: "Minister of Urban Development, Construction and Housing", 
+        title: "Minister of Ports and Civil Aviations", 
         mobile: "0714458399", 
         telephoneSitting: "0714458399", 
         telephoneNonSitting: "0714458399", 
@@ -205,7 +205,7 @@ const data = [
     },
     { 
         name: "HON. (Prof.) Anil Jayantha", 
-        title: "Minister of Labour and Deputy Minister of Economic Development", 
+        title: "Deputy Minister of finance and planning", 
         mobile: "0714463944", 
         telephoneSitting: "0714463944", 
         telephoneNonSitting: "0714463944", 
@@ -349,7 +349,7 @@ const data = [
     },
     { 
         name: "HON. Eranga Gunasekara", 
-        title: "Deputy Minister of Youth Affairs", 
+        title: "Deputy Minister of Urban Development", 
         mobile: "0718457920", 
         telephoneSitting: "0112177005", 
         telephoneNonSitting: "0112177005", 
@@ -469,7 +469,7 @@ const data = [
     },
     { 
         name: "HON. Muneer Mulaffer", 
-        title: "Deputy Minister of National Integration", 
+        title: "Deputy Minister of Religious and Cultural Affairs", 
         mobile: "0706306744", 
         telephoneSitting: "0706306744", 
         telephoneNonSitting: "0706306744", 
@@ -493,7 +493,7 @@ const data = [
     },
     { 
         name: "HON. (Dr.) Susil Ranasinghe", 
-        title: "Deputy Minister of Land and Irrigation", 
+        title: "Minister of Housing, Construction and Water Supply", 
         mobile: "0714325051", 
         telephoneSitting: "0112785612", 
         telephoneNonSitting: "0743205051", 
@@ -517,7 +517,7 @@ const data = [
     },
     { 
         name: "HON. (Dr.) Hansaka Wijemuni", 
-        title: "Deputy Minister of Health and Mass Media", 
+        title: "Deputy Minister of Health", 
         mobile: "0724128266", 
         telephoneSitting: "0774370354", 
         telephoneNonSitting: "0724128266", 
@@ -553,7 +553,7 @@ const data = [
     },
     { 
         name: "HON. T. B. Sarath", 
-        title: "Deputy Minister of Housing", 
+        title: "Deputy Minister of Housing, Construction and Water Supply", 
         mobile: "0719178866", 
         telephoneSitting: "0719178866", 
         telephoneNonSitting: "0274321010", 
@@ -1357,7 +1357,7 @@ const data = [
     },
     { 
         name: "HON. (Dr.)(Ms.) Kaushalya Ariyarathne", 
-        title: "", 
+        title: "Deputy Minister of Mass Media", 
         mobile: "0776733430", 
         telephoneSitting: "0771913004", 
         telephoneNonSitting: "0776733430", 
@@ -1405,7 +1405,7 @@ const data = [
     },
     { 
         name: "HON. Arkam Ilyas", 
-        title: "", 
+        title: "Deputy Minister of Power", 
         mobile: "0777117544", 
         telephoneSitting: "0777117544", 
         telephoneNonSitting: "0777772974", 
@@ -1414,6 +1414,18 @@ const data = [
         fax: "", 
         email: "arkam@parliament.lk", 
         image: "https://www.parliament.lk/uploads/images/members/profile_images/thumbs/3524.jpg" 
+    },
+    { 
+        name: "HON. Nishantha Jayaweera", 
+        title: "Deputy Minister of Economic Development", 
+        mobile: "0718321578", 
+        telephoneSitting: "0718321578", 
+        telephoneNonSitting: "0718321578", 
+        addressSitting: "428/4A, New Street, Weligama.", 
+        addressNonSitting: "428/4A, New Street, Weligama.", 
+        fax: "", 
+        email: "nishanthaj@parliament.lk", 
+        image: "https://www.parliament.lk/uploads/images/members/profile_images/thumbs/3627.jpg" 
     },
     { 
         name: "HON. M.S. Uthumalebbe", 
@@ -2437,7 +2449,7 @@ const data = [
       },
       {
         name: "HON. Dinindu Saman",
-        title: "",
+        title: "Deputy Minister of Youth Affairs",
         mobile: "0710330306",
         telephoneSitting: "0710330306",
         telephoneNonSitting: "0710330306",
@@ -2545,7 +2557,7 @@ const data = [
       },
       {
         name: "HON. Aravinda Senarath",
-        title: "",
+        title: "Deputy Minister of Land and Irrigation",
         mobile: "0716982712",
         telephoneSitting: "0472248712",
         telephoneNonSitting: "0472248712",
