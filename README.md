@@ -21,7 +21,7 @@ A comprehensive, searchable digital directory for Members of Parliament (MPs) in
 
 ## 🚀 Live Demo
 
-[View Live Project](https://your-project-link.netlify.app)
+[View Live Project](https://sri-lanka-parliament-member-directory.netlify.app/)
 
 ## 🛠️ Technologies Used
 
