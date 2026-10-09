@@ -9,7 +9,7 @@ const data = [
         addressNonSitting: "2-A, Newtown Road, 2nd Cannal, Polonnaruwa", 
         fax: "", 
         email: "jagathw@parliament.lk", 
-        image: "https://i.ibb.co/8DpBv7Sg/Jagath-Wicramaratne.png"
+        image: "https://www.parliament.lk/uploads/images/members/profile_images/thumbs/3575.jpg"
     },
     { 
         name: "HON. (Dr.) Rizvie Salih", 
