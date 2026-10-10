@@ -2651,6 +2651,18 @@ const data = [
         email: "geethah@parliament.Ik",
         image: "https://www.parliament.lk/uploads/images/members/profile_images/thumbs/3552.jpg"
       },
+	  {
+        name: "HON. Habeeb Rifan",
+        title: "",
+        mobile: "0776144400",
+        telephoneSitting: "0776144400",
+        telephoneNonSitting: "0776144400",
+        addressSitting: "D10 parliament Members Housing Complex",
+        addressNonSitting: "No.260A, Maulana Street, Oddamawadi. ",
+        fax: "",
+        email: "",
+        image: "https://drive.google.com/file/d/1wrL6JrL_LmofCd1ICYDYhnEnaXkZ6m2a/view?usp=sharing"
+      },
       {
         name: "HON. Bhagya Sri Herath, Attorney at Law",
         title: "",
