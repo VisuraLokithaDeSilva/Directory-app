@@ -2661,7 +2661,7 @@ const data = [
         addressNonSitting: "No.260A, Maulana Street, Oddamawadi. ",
         fax: "",
         email: "",
-        image: ""
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1k2WHasht_V4PYwVYi3dnbJ8yhu9j2MGncV7aI4KEV0RNqNSi7YlbycOd&s=10"
       },
       {
         name: "HON. Bhagya Sri Herath, Attorney at Law",
